@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Henryck!</h1>
 
 <p align="center" >I'm a <b>Full Stack Web</b> Developer. I am passionate about technologies and love to learn literally anything</p>
-
 <br>
 
 <img src="https://media3.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e4763ddxqjp6a481cjg8p2fc86bdfho3plzhaa2wy3l&rid=giphy.gif&ct=g" align="right">
@@ -11,10 +10,10 @@
 - ⚡ **Fun fact:** I've played guitar for 9 years, and I'm still bad
 - ✨ **I like:** Exercises, animes, music, learn random things
 
-#  💻 Technologies
+##  💻 Technologies
 <img src = "https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,jest,docker,express,redux,mysql,prisma,mongodb&perline=5">  
 
-# 📪 Get in touch
+## 📪 Get in touch
 <div>
 	<a href="mailto:ryck302@gmail.com" alt="Gmail">
 		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ryck302@gmail.com" height="25" />
