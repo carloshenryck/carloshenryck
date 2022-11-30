@@ -22,7 +22,7 @@
 		<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henryck-dev/" height="25" />
 	</a>
 	<a href="https://discordapp.com/users/571075961877954624" alt="Instagram">
-	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/571075961877954624" height="25" />
+	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/551195055977660437" height="25" />
 	</a>
 	</div>
 </div>
