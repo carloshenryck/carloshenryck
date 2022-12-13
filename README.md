@@ -5,7 +5,7 @@
 
 <img src="https://media3.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e4763ddxqjp6a481cjg8p2fc86bdfho3plzhaa2wy3l&rid=giphy.gif&ct=g" align="right">
 
-- 🌱 **I’m currently learning** Object-oriented programming (OOP)
+- 🌱 **I’m currently learning** MongoDb
 - 💬 Ask me about anything
 - ⚡ **Fun fact:** I've played guitar for 9 years, and I'm still bad
 - ✨ **I like:** Exercises, animes, music, learn random things
