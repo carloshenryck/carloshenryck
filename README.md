@@ -5,10 +5,10 @@
 
 <img src="https://media3.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e4763ddxqjp6a481cjg8p2fc86bdfho3plzhaa2wy3l&rid=giphy.gif&ct=g" align="right">
 
-- 🌱 **I’m currently learning**: MongoDB
+- 🌱 **I’m currently learning**: Python
 - 💬 Ask me about anything
-- ⚡ **Fun fact:** I've played guitar for 9 years, and I'm still bad
-- ✨ **I like:** Exercises, animes, music, learn random things
+- ⚡ **Fun fact:** I've played guitar for 9 years
+- ✨ **I like:** Exercise, animes, music, learn random things
 
 ##  💻 Technologies
 <img src = "https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,jest,docker,express,redux,mysql,prisma,mongodb&perline=5">  
