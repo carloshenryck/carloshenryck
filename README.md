@@ -8,7 +8,7 @@
 - 🌱 **I’m currently learning**: Python
 - 💬 Ask me about anything
 - ⚡ **Fun fact:** I've played guitar for 9 years
-- ✨ **I like:** Exercise, animes, music, learn random things
+- ✨ **I like:** to work out, animes, music, learn random things
 
 ##  💻 Technologies
 <img src = "https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,jest,docker,express,redux,mysql,prisma,mongodb&perline=5">  
